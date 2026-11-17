@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+<rect width="1000" height="500" rx="28" fill="#f7f9fc"/>
+<text x="55" y="60" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#172033">Brooklyn vs. Manhattan</text>
+<text x="55" y="94" font-family="Arial,sans-serif" font-size="17" fill="#667085">Scale, quality, and estimated activity proxies</text>
+<text x="55" y="155" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#25324a">Listings</text>
+<rect x="210" y="132" width="408" height="31" rx="7" fill="#f2c94c"/><text x="630" y="155" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Brooklyn 13,254</text>
+<rect x="210" y="176" width="503" height="31" rx="7" fill="#9ea9b8"/><text x="725" y="199" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Manhattan 16,355</text>
+<text x="55" y="275" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#25324a">Average rating</text>
+<rect x="210" y="252" width="476" height="31" rx="7" fill="#2e8b57"/><text x="698" y="275" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Brooklyn 4.76</text>
+<rect x="210" y="296" width="467" height="31" rx="7" fill="#9ea9b8"/><text x="689" y="319" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Manhattan 4.67</text>
+<text x="55" y="395" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#25324a">Estimated nights</text>
+<rect x="210" y="372" width="466" height="31" rx="7" fill="#4b8bbe"/><text x="688" y="395" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Brooklyn 46.55</text>
+<rect x="210" y="416" width="418" height="31" rx="7" fill="#9ea9b8"/><text x="640" y="439" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Manhattan 41.74</text>
+</svg>
