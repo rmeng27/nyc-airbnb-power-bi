@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500">
+<rect width="1000" height="500" rx="28" fill="#f7f9fc"/>
+<text x="55" y="60" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#172033">Superhost profile comparison</text>
+<text x="55" y="94" font-family="Arial,sans-serif" font-size="17" fill="#667085">Page-level filter: host_is_superhost = True</text>
+<text x="55" y="155" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#25324a">Avg. estimated nights booked</text>
+<rect x="330" y="130" width="440" height="34" rx="8" fill="#2e8b57"/><text x="785" y="154" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Small: 175.81</text>
+<rect x="330" y="182" width="267" height="34" rx="8" fill="#6f8fa8"/><text x="612" y="206" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Mid-size: 106.62</text>
+<rect x="330" y="234" width="215" height="34" rx="8" fill="#a3aebb"/><text x="560" y="258" font-family="Arial,sans-serif" font-size="16" fill="#25324a">Large: 85.98</text>
+<text x="55" y="340" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#25324a">Average rating</text>
+<text x="330" y="340" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#2e8b57">4.89</text>
+<text x="410" y="340" font-family="Arial,sans-serif" font-size="16" fill="#667085">small</text>
+<text x="535" y="340" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#6f8fa8">4.84</text>
+<text x="615" y="340" font-family="Arial,sans-serif" font-size="16" fill="#667085">mid-size</text>
+<text x="765" y="340" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#a3aebb">4.82</text>
+<text x="845" y="340" font-family="Arial,sans-serif" font-size="16" fill="#667085">large</text>
+<line x1="55" y1="405" x2="945" y2="405" stroke="#d9e0eb"/>
+<text x="55" y="440" font-family="Arial,sans-serif" font-size="15" fill="#7b8494">These are demand/quality proxies, not revenue or profitability measures.</text>
+</svg>
